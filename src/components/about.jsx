@@ -9,47 +9,47 @@ class About extends React.Component {
         { id: "HTML5_skill", content: "HTML5", porcentage: "80%", value: "80" },
         { id: "CSS3_skill", content: "CSS3", porcentage: "75%", value: "75" },
         {
-          id: "JavaScript_skill",
-          content: "JavaScript",
+          id: "Javascript_Skill",
+          content: "Scripiting",
           porcentage: "90%",
           value: "90"
         },
         { id: "PHP_skill", content: "PHP", porcentage: "70%", value: "70" },
         {
           id: "ReactJS_skill",
-          content: "ReactJS",
+          content: "Gui Skills",
           porcentage: "80%",
           value: "80"
         },
         {
           id: "Python_skill",
-          content: "Python",
+          content: "Modeling",
           porcentage: "75%",
           value: "75"
         },
         {
           id: "VanillaJS_skill",
-          content: "VanillaJS",
-          porcentage: "85%",
-          value: "85"
+          content: "Particles",
+          porcentage: "70%",
+          value: "70"
         },
         {
           id: "Wordpress_skill",
-          content: "Wordpress",
-          porcentage: "80%",
-          value: "80"
+          content: "Building",
+          porcentage: "70%",
+          value: "70"
         }
       ],
       about_me: [
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Hey, I'm sen a roblox develeper, and a discord develeper. I have a few past projects and works you can check out on my site."
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Lorem. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididuabore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
         },
         {
           id: "third-p-about",
