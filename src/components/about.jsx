@@ -49,12 +49,12 @@ class About extends React.Component {
         {
           id: "second-p-about",
           content:
-            "Lorem. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididuabore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I am also a good decent builder, and an amazing GUI maker and an above-average modeler. I have some experience with particles but not the best at it."
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Here on this site you can see SOME of my previous works, not all my works will be listed. I take some small commisions and you can hire me for a long term job."
         }
       ]
     };
